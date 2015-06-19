@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"X-Generator: Poedit 1.6.3\n"
+
+# eddard-post.class.php 25
+msgid "Eddard Post Attachments"
+msgstr ""
+
+# eddard-post.class.php 106
+msgid "Close attachments"
+msgstr ""
+
+# eddard-post.class.php 107
+msgid "Close"
+msgstr ""
+
+#
+msgid "Click the image to toggle edit screen"
+msgstr ""
+
+#
+msgid "Edit with Media Libary"
+msgstr ""
+
+#
+msgid "REMOVE from post"
+msgstr ""
+
+#
+msgid "Last modified"
+msgstr ""
+
+#
+msgid "Please wait..."
+msgstr ""
+
+#
+msgid "Post attachments"
+msgstr ""
+
+#
+msgid "Attachment list creation..."
+msgstr ""
+
+#
+msgid "Cannot remove image! Attachment image id is empty."
+msgstr ""
+
+#
+msgid "Selected image removed from post successfully!"
+msgstr ""
+
+#
+msgid "Current attachments"
+msgstr ""
+
+#
+msgid "Attached to other"
+msgstr ""
+
+#
+msgid "Attach to current"
+msgstr ""
+
+#
+msgid "This will attach this image to the current post/page"
+msgstr ""
+
+#
+msgid "This image will no longer attached to the current post/page"
+msgstr ""
+
+#
+msgid "Cannot take over image! Post ID is empty."
+msgstr ""
+
+#
+msgid "Cannot take over image! Attachment image id is empty."
+msgstr ""
+
+#
+msgid "Attachment successfully moved!"
+msgstr ""
+
+#
+msgid "Attachment cannot be moved!"
+msgstr ""
+
+#
+msgid "Unattached"
+msgstr ""
+
+#
+msgid "Image url (full size)"
+msgstr ""
+
+#
+msgid "Click for full size"
+msgstr ""

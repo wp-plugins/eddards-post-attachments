@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu_HU\n"
+"X-Generator: Poedit 1.6.3\n"
+
+# eddard-post.class.php 25
+msgid "Eddard Post Attachments"
+msgstr "Eddard Post Csatolmányok"
+
+# eddard-post.class.php 106
+msgid "Close attachments"
+msgstr "Csatolmányok bezárása"
+
+# eddard-post.class.php 107
+msgid "Close"
+msgstr "Bezár"
+
+#
+msgid "Click the image to toggle edit screen"
+msgstr "Klikk a képre a részletek ki/be kapcsolásához"
+
+#
+msgid "Edit with Media Libary"
+msgstr "Szerkesztés a Médiatárban"
+
+#
+msgid "REMOVE from post"
+msgstr "Eltávolítás a poszttól"
+
+#
+msgid "Last modified"
+msgstr "Utoljára módosítva"
+
+#
+msgid "Please wait..."
+msgstr "Kérem várjon..."
+
+#
+msgid "Post attachments"
+msgstr "Csatolmányok"
+
+#
+msgid "Attachment list creation..."
+msgstr "Csatolmányok listájának készítése"
+
+#
+msgid "Cannot remove image! Attachment image id is empty."
+msgstr "A csatolmány nem távolítható el! A kép azonosító üres."
+
+#
+msgid "Selected image removed from post successfully!"
+msgstr "A kiválasztott képet sikeresen eltávolítottuk a poszttól!"
+
+#
+msgid "Current attachments"
+msgstr "Aktuális csatolmányok"
+
+#
+msgid "Attached to other"
+msgstr "Máshoz csatoltak"
+
+#
+msgid "Attach to current"
+msgstr "Az aktuálishoz csatol"
+
+#
+msgid "This will attach this image to the current post/page"
+msgstr "Ez a képet az aktuális poszthoz/oldalhoz fogja csatolni"
+
+#
+msgid "This image will no longer attached to the current post/page"
+msgstr "Ez a kép többé nem lesz az aktuális poszt/oldal csatolmánya"
+
+#
+msgid "Cannot take over image! Post ID is empty."
+msgstr "A kép nem vehető át! A poszt azonosító üres."
+
+#
+msgid "Cannot take over image! Attachment image id is empty."
+msgstr "A kép nem vehető át! A csatolmány azonosító üres."
+
+#
+msgid "Attachment successfully moved!"
+msgstr "Csatolmány sikeresen áthelyzve!"
+
+#
+msgid "Attachment cannot be moved!"
+msgstr "A csatolmányt nem lehet áthelyezni"
+
+#
+msgid "Unattached"
+msgstr "Csatolatlanok"
+
+#
+msgid "Image url (full size)"
+msgstr "Kép url (teljes méret)"
+
+#
+msgid "Click for full size"
+msgstr "Teljes méretű kép"
